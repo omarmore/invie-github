@@ -4,5 +4,5 @@
 - [ ] backend
 - [ ] configuración de server
 
-# ¿Cómo puedo conprobar los cambios?
+# ¿Cómo puedo comprobar los cambios?
   en que url y forma puedo ver el update
